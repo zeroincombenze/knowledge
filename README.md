@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/OCA/knowledge.svg?branch=8.0)](https://travis-ci.org/OCA/knowledge)
-[![codecov](https://codecov.io/gh/OCA/knowledge/branch/8.0/graph/badge.svg)](https://codecov.io/gh/OCA/knowledge)
+[![Build Status](https://travis-ci.org/zeroincombenze/knowledge.svg?branch=8.0)](https://travis-ci.org/zeroincombenze/knowledge)
+[![codecov](https://codecov.io/gh/zeroincombenze/knowledge/branch/8.0/graph/badge.svg)](https://codecov.io/gh/zeroincombenze/knowledge)
 
 Knowledge
 =========
