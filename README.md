@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/OCA/knowledge.svg?branch=7.0)](https://travis-ci.org/OCA/knowledge)
-[![Coverage Status](https://coveralls.io/repos/OCA/knowledge/badge.png?branch=7.0)](https://coveralls.io/r/OCA/knowledge?branch=7.0)
+[![Build Status](https://travis-ci.org/zeroincombenze/knowledge.svg?branch=7.0)](https://travis-ci.org/zeroincombenze/knowledge)
+[![Coverage Status](https://coveralls.io/repos/zeroincombenze/knowledge/badge.png?branch=7.0)](https://coveralls.io/r/zeroincombenze/knowledge?branch=7.0)
 
 Knowledge
 =========
