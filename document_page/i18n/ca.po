@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: knowledge (9.0)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-08-13 13:00+0000\n"
-"PO-Revision-Date: 2016-09-09 12:25+0000\n"
+"POT-Creation-Date: 2017-04-20 22:18+0000\n"
+"PO-Revision-Date: 2017-03-30 17:07+0000\n"
 "Last-Translator: OCA Transbot <transbot@odoo-community.org>\n"
 "Language-Team: Catalan (http://www.transifex.com/oca/OCA-knowledge-9-0/language/ca/)\n"
 "MIME-Version: 1.0\n"
@@ -21,7 +21,7 @@ msgstr ""
 #. module: document_page
 #: model:ir.model.fields,field_description:document_page.field_document_page_message_needaction
 msgid "Action Needed"
-msgstr ""
+msgstr "Acció necessària "
 
 #. module: document_page
 #: model:ir.model.fields,field_description:document_page.field_document_page_create_uid
@@ -121,7 +121,7 @@ msgstr "Diferència"
 #: model:ir.model.fields,field_description:document_page.field_document_page_history_display_name
 #: model:ir.model.fields,field_description:document_page.field_wizard_document_page_history_show_diff_display_name
 msgid "Display Name"
-msgstr ""
+msgstr "Veure el nom"
 
 #. module: document_page
 #: model:ir.model.fields,field_description:document_page.field_document_page_display_content
@@ -162,17 +162,17 @@ msgstr "Documents"
 #. module: document_page
 #: model:ir.model.fields,field_description:document_page.field_document_page_message_follower_ids
 msgid "Followers"
-msgstr ""
+msgstr "Seguidors"
 
 #. module: document_page
 #: model:ir.model.fields,field_description:document_page.field_document_page_message_channel_ids
 msgid "Followers (Channels)"
-msgstr ""
+msgstr "Seguidors (Canals) "
 
 #. module: document_page
 #: model:ir.model.fields,field_description:document_page.field_document_page_message_partner_ids
 msgid "Followers (Partners)"
-msgstr ""
+msgstr "Seguidors (Empreses) "
 
 #. module: document_page
 #: model:ir.ui.view,arch_db:document_page.view_wiki_filter
@@ -182,7 +182,7 @@ msgstr "Agrupa per..."
 #. module: document_page
 #: model:ir.model.fields,field_description:document_page.field_document_page_history_ids
 msgid "History"
-msgstr ""
+msgstr "Història"
 
 #. module: document_page
 #: model:ir.model.fields,field_description:document_page.field_document_page_create_menu_id
@@ -200,12 +200,12 @@ msgstr ""
 #. module: document_page
 #: model:ir.model.fields,help:document_page.field_document_page_message_needaction
 msgid "If checked, new messages require your attention."
-msgstr ""
+msgstr "Si està marcat, els nous missatges volen la vostra atenció. "
 
 #. module: document_page
 #: model:ir.model.fields,field_description:document_page.field_document_page_message_is_follower
 msgid "Is Follower"
-msgstr ""
+msgstr "És seguidor"
 
 #. module: document_page
 #: model:ir.ui.view,arch_db:document_page.view_wiki_form
@@ -229,7 +229,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:document_page.field_document_page_history___last_update
 #: model:ir.model.fields,field_description:document_page.field_wizard_document_page_history_show_diff___last_update
 msgid "Last Modified on"
-msgstr ""
+msgstr "Darrera modificació el"
 
 #. module: document_page
 #: model:ir.model.fields,field_description:document_page.field_document_page_create_menu_write_uid
@@ -263,7 +263,7 @@ msgstr "Nom menú"
 #. module: document_page
 #: model:ir.model.fields,field_description:document_page.field_document_page_message_ids
 msgid "Messages"
-msgstr ""
+msgstr "Missatges"
 
 #. module: document_page
 #: model:ir.model.fields,field_description:document_page.field_document_page_write_date
@@ -280,22 +280,22 @@ msgstr ""
 #: model:ir.ui.view,arch_db:document_page.view_wiki_form
 #: model:ir.ui.view,arch_db:document_page.view_wiki_menu_form
 msgid "Name"
-msgstr ""
+msgstr "Nom"
 
 #. module: document_page
 #: model:ir.model.fields,field_description:document_page.field_document_page_message_needaction_counter
 msgid "Number of Actions"
-msgstr ""
+msgstr "Número d'accions "
 
 #. module: document_page
 #: model:ir.model.fields,help:document_page.field_document_page_message_needaction_counter
 msgid "Number of messages which requires an action"
-msgstr ""
+msgstr "Número de missatges que requereixen una acció "
 
 #. module: document_page
 #: model:ir.model.fields,help:document_page.field_document_page_message_unread_counter
 msgid "Number of unread messages"
-msgstr ""
+msgstr "Número de missatges no llegits "
 
 #. module: document_page
 #: model:ir.model.fields,field_description:document_page.field_document_page_history_page_id
@@ -372,7 +372,7 @@ msgstr "Títol"
 #. module: document_page
 #: model:ir.model.fields,field_description:document_page.field_document_page_type
 msgid "Type"
-msgstr ""
+msgstr "Tipus"
 
 #. module: document_page
 #: model:ir.model.fields,field_description:document_page.field_document_page_message_unread
@@ -382,7 +382,7 @@ msgstr ""
 #. module: document_page
 #: model:ir.model.fields,field_description:document_page.field_document_page_message_unread_counter
 msgid "Unread Messages Counter"
-msgstr ""
+msgstr "Comptador de missatges sense llegir"
 
 #. module: document_page
 #: model:ir.model,name:document_page.model_document_page_create_menu
@@ -398,7 +398,7 @@ msgstr ""
 #. module: document_page
 #: model:ir.ui.view,arch_db:document_page.view_wiki_create_menu
 msgid "or"
-msgstr ""
+msgstr "o"
 
 #. module: document_page
 #: model:ir.model,name:document_page.model_wizard_document_page_history_show_diff
