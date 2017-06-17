@@ -20,13 +20,16 @@
 ##############################################################################
 {
     "name": "Move existing attachments to filesystem",
-    "version": "8.0.1.0.0",
+    "version": "8.0.1.0.1",
     "author": "Therp BV,Odoo Community Association (OCA)",
     "license": "AGPL-3",
     "complexity": "normal",
     "category": "Knowledge Management",
     "depends": [
         'base',
+    ],
+    "demo": [
+        "demo/ir_attachment.xml",
     ],
     "data": [
         "data/ir_cron.xml",
