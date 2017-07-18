@@ -3,12 +3,15 @@
 [![Coverage Status](https://coveralls.io/repos/github/zeroincombenze/knowledge/badge.svg?branch=9.0)](https://coveralls.io/github/zeroincombenze/knowledge?branch=9.0)
 [![codecov](https://codecov.io/gh/zeroincombenze/knowledge/branch/9.0/graph/badge.svg)](https://codecov.io/gh/zeroincombenze/knowledge/branch/9.0)
 [![OCA_project](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-oca-9.svg)](https://github.com/OCA/knowledge/tree/9.0)
-[![Tech Doc](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-docs-9.svg)](http://wiki.zeroincombenze.org/en/Odoo/dev/9.0)
-[![Help](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-help-9.svg)](http://wiki.zeroincombenze.org/en/Odoo/9.0/)
+[![Tech Doc](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-docs-9.svg)](http://wiki.zeroincombenze.org/en/Odoo/9.0/dev)
+[![Help](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-help-9.svg)](http://wiki.zeroincombenze.org/en/Odoo/9.0/man/)
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-9.svg)](http://erp9.zeroincombenze.it)
 
+
+[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
+================================================================================================
+
 Knowledge
-=========
 
 This project is meant to gather all community extensions of Odoo's knowledge and document management.
 
@@ -20,7 +23,6 @@ Here you should find all community modules that:
 [//]: # (addons)
 
 Available addons
-----------------
 addon | version | summary
 --- | --- | ---
 [document_page](document_page/) | 9.0.1.0.1 | Document Page
@@ -30,7 +32,6 @@ addon | version | summary
 
 
 Unported addons
----------------
 addon | version | summary
 --- | --- | ---
 [attachment_preview](attachment_preview/) | 8.0.1.1.0 (unported) | Preview attachments supported by Viewer.js
@@ -44,7 +45,6 @@ addon | version | summary
 [//]: # (end addons)
 
 Translation Status
-------------------
 [![Transifex Status](https://www.transifex.com/projects/p/OCA-knowledge-9-0/chart/image_png)](https://www.transifex.com/projects/p/OCA-knowledge-9-0)
 
 [//]: # (copyright)
