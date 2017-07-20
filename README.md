@@ -3,12 +3,15 @@
 [![Coverage Status](https://coveralls.io/repos/github/zeroincombenze/knowledge/badge.svg?branch=7.0)](https://coveralls.io/github/zeroincombenze/knowledge?branch=7.0)
 [![codecov](https://codecov.io/gh/zeroincombenze/knowledge/branch/7.0/graph/badge.svg)](https://codecov.io/gh/zeroincombenze/knowledge/branch/7.0)
 [![OCA_project](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-oca-7.svg)](https://github.com/OCA/knowledge/tree/7.0)
-[![Tech Doc](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-docs-7.svg)](http://wiki.zeroincombenze.org/en/Odoo/dev/7.0)
-[![Help](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-help-7.svg)](http://wiki.zeroincombenze.org/en/Odoo/7.0/)
+[![Tech Doc](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-docs-7.svg)](http://wiki.zeroincombenze.org/en/Odoo/7.0/dev)
+[![Help](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-help-7.svg)](http://wiki.zeroincombenze.org/en/Odoo/7.0/man/)
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-7.svg)](http://erp7.zeroincombenze.it)
 
+
+[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
+================================================================================================
+
 Knowledge
-=========
 
 This project is meant to gather all community extensions of Odoo's knowledge and document management
 
@@ -19,10 +22,8 @@ Here you should find all community modules that
 
 
 document\_page\_approval
-------------------------
 
 document\_page\_multi\_company
-------------------------------
 
 [//]: # (copyright)
 
