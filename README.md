@@ -23,7 +23,9 @@ Here you should find all community modules that:
 
 [//]: # (addons)
 
+
 Available addons
+----------------
 addon | version | summary
 --- | --- | ---
 [document_page](document_page/) | 9.0.1.0.1 | Document Page
@@ -33,6 +35,7 @@ addon | version | summary
 
 
 Unported addons
+---------------
 addon | version | summary
 --- | --- | ---
 [attachment_preview](attachment_preview/) | 8.0.1.1.0 (unported) | Preview attachments supported by Viewer.js
