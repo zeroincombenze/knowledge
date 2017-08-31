@@ -43,4 +43,21 @@ is mainly designed for Italian law and markeplace.
 Everytime, every Odoo DB and customized code can be deployed on local server too.
 
 [//]: # (end copyright)
+[//]: # (addons)
+
+
+Available addons
+----------------
+addon | version | OCA version | summary
+--- | --- | --- | ---
+[attachment_preview](attachment_preview/) | 1.0 |  N/D  | Preview attachments
+[attachments_to_filesystem](attachments_to_filesystem/) | 1.0 |  N/D  | Move existing attachments to filesystem
+[document_choose_directory](document_choose_directory/) | 1.0 |  N/D  | Choose a document's directory during upload
+[document_multiple_records](document_multiple_records/) | 7.0.1.0.0 |  N/D  | Document Management System for Multiple Records
+[document_page_approval](document_page_approval/) | 1.0 |  N/D  | Document Page Approval
+[document_page_multi_company](document_page_multi_company/) | 1.0 |  N/D  | Document Page Multi-Company
+[document_url](document_url/) | 1.0 |  N/D  | URL attachment
+
+[//]: # (end addons)
+
 [![chat with us](https://www.shs-av.com/wp-content/chat_with_us.gif)](https://tawk.to/85d4f6e06e68dd4e358797643fe5ee67540e408b)
