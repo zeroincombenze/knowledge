@@ -8,7 +8,7 @@
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-9.svg)](http://erp9.zeroincombenze.it)
 
 
-[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
+[![en](https://github.com/zeroincombenze/grymb/blob/master/flags/en_US.png)](https://www.facebook.com/groups/openerp.italia/)
 
 Introduction
 ============
@@ -18,8 +18,10 @@ system.
 Installation
 ------------
 
+
 Configuration
 -------------
+
 
 If it doesn't exist, the module creates a parameter `ir_attachment.location`
 with value `file`. This will make new attachments end up in your
@@ -41,19 +43,26 @@ addon.
 Usage
 -----
 
+-----
+
 Known issues / Roadmap
 ----------------------
 
+
 Bug Tracker
 -----------
+
 
 Credits
 -------
 
 
+
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Holger Brunn <hbrunn@therp.nl>
@@ -66,6 +75,8 @@ http://commons.wikimedia.org/wiki/File:Crystal_Clear_app_harddrive.png
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: http://odoo-community.org/logo.png

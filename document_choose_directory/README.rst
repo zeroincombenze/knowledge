@@ -8,7 +8,7 @@
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-9.svg)](http://erp9.zeroincombenze.it)
 
 
-[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
+[![en](https://github.com/zeroincombenze/grymb/blob/master/flags/en_US.png)](https://www.facebook.com/groups/openerp.italia/)
 
 Choose document directories
 ===========================
@@ -21,8 +21,10 @@ overview.
 Installation
 ------------
 
+
 Configuration
 -------------
+
 
 
 Create a static directory and choose the resource model you want to use this
@@ -36,19 +38,26 @@ that's probably not what you want.
 Usage
 -----
 
+-----
+
 Known issues / Roadmap
 ----------------------
 
+
 Bug Tracker
 -----------
+
 
 Credits
 -------
 
 
+
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Holger Brunn <hbrunn@therp.nl>
@@ -56,6 +65,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: http://odoo-community.org/logo.png

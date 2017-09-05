@@ -8,7 +8,7 @@
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-9.svg)](http://erp9.zeroincombenze.it)
 
 
-[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
+[![en](https://github.com/zeroincombenze/grymb/blob/master/flags/en_US.png)](https://www.facebook.com/groups/openerp.italia/)
 
 Preview attachments
 ===================
@@ -21,6 +21,7 @@ Installation
 ------------
 
 
+
 For filetype recognition, you'll get the best results by installing
 ``python-magic``::
 
@@ -29,7 +30,10 @@ sudo apt-get install python-magic
 Configuration
 -------------
 
+
 Usage
+-----
+
 -----
 
 =====
@@ -40,11 +44,14 @@ attachments or binary fields.
 Known issues / Roadmap
 ----------------------
 
+
 Bug Tracker
 -----------
 
+
 Credits
 -------
+
 
 
 Addon icon
@@ -53,7 +60,9 @@ Addon icon
 
 [![Odoo Italia Associazione]]
 
+
 ### Contributors
+
 
 
 * Holger Brunn <hbrunn@therp.nl>
@@ -61,6 +70,8 @@ Addon icon
 ### Funders
 
 ### Maintainer
+
+
 
 
 .. image:: http://odoo-community.org/logo.png
