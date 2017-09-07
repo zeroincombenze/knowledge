@@ -8,7 +8,7 @@
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-7.svg)](http://erp7.zeroincombenze.it)
 
 
-[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
+[![en](https://github.com/zeroincombenze/grymb/blob/master/flags/en_US.png)](https://www.facebook.com/groups/openerp.italia/)
 ================================================================================================
 ================================================================================================
 
@@ -50,13 +50,13 @@ Available addons
 ----------------
 addon | version | OCA version | summary
 --- | --- | --- | ---
-[attachment_preview](attachment_preview/) | 1.0 |  N/D  | Preview attachments
-[attachments_to_filesystem](attachments_to_filesystem/) | 1.0 |  N/D  | Move existing attachments to filesystem
-[document_choose_directory](document_choose_directory/) | 1.0 |  N/D  | Choose a document's directory during upload
-[document_multiple_records](document_multiple_records/) | 7.0.1.0.0 |  N/D  | Document Management System for Multiple Records
-[document_page_approval](document_page_approval/) | 1.0 |  N/D  | Document Page Approval
-[document_page_multi_company](document_page_multi_company/) | 1.0 |  N/D  | Document Page Multi-Company
-[document_url](document_url/) | 1.0 |  N/D  | URL attachment
+[attachment_preview](attachment_preview/) | 1.0 | :repeat: | Preview attachments
+[attachments_to_filesystem](attachments_to_filesystem/) | 1.0 | :repeat: | Move existing attachments to filesystem
+[document_choose_directory](document_choose_directory/) | 1.0 | :repeat: | Choose a document's directory during upload
+[document_multiple_records](document_multiple_records/) | 7.0.1.0.0 | :repeat: | Document Management System for Multiple Records
+[document_page_approval](document_page_approval/) | 1.0 | :repeat: | Document Page Approval
+[document_page_multi_company](document_page_multi_company/) | 1.0 | :repeat: | Document Page Multi-Company
+[document_url](document_url/) | 1.0 | :repeat: | URL attachment
 
 [//]: # (end addons)
 
