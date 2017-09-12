@@ -19,8 +19,10 @@ Installation
 ------------
 
 
+
 Configuration
 -------------
+
 
 
 If it doesn't exist, the module creates a parameter `ir_attachment.location`
@@ -45,12 +47,16 @@ Usage
 
 -----
 
+-----
+
 Known issues / Roadmap
 ----------------------
 
 
+
 Bug Tracker
 -----------
+
 
 
 Credits
@@ -58,10 +64,13 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
 
 
+
 ### Contributors
+
 
 
 
@@ -75,6 +84,8 @@ http://commons.wikimedia.org/wiki/File:Crystal_Clear_app_harddrive.png
 ### Funders
 
 ### Maintainer
+
+
 
 
 

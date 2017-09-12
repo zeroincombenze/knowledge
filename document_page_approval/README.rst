@@ -24,6 +24,7 @@ Installation
 
 
 
+
 Makes the document page approval available from where some users can approved the modifications
 made by others users in documents that required approvement.
 
@@ -32,9 +33,12 @@ Configuration
 
 
 
+
 No configuration required
 
 Usage
+-----
+
 -----
 
 -----
@@ -64,8 +68,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -80,10 +86,13 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
 
 
+
 ### Contributors
+
 
 
 
@@ -94,6 +103,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 
