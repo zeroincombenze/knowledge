@@ -24,6 +24,7 @@ Installation
 
 
 
+
 * None
 
 Configuration
@@ -32,9 +33,12 @@ Configuration
 
 
 
+
 * None
 
 Usage
+-----
+
 -----
 
 -----
@@ -58,11 +62,13 @@ Known issues / Roadmap
 
 
 
+
 * Add options for other OCA extension modules as they are made available.
 * `Migrate CMIS modules to version 9 <https://github.com/OCA/connector-cmis/issues/8>`_
 
 Bug Tracker
 -----------
+
 
 
 
@@ -82,11 +88,14 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
 
 
 
+
 ### Contributors
+
 
 
 
@@ -98,6 +107,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 

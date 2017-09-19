@@ -23,6 +23,7 @@ Installation
 
 
 
+
 For filetype recognition, you'll get the best results by installing
 ``python-magic``::
 
@@ -33,7 +34,10 @@ Configuration
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -50,13 +54,16 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
 
 
 
+
 Credits
 -------
+
 
 
 
@@ -69,7 +76,9 @@ Addon icon
 
 
 
+
 ### Contributors
+
 
 
 
@@ -79,6 +88,8 @@ Addon icon
 ### Funders
 
 ### Maintainer
+
+
 
 
 
