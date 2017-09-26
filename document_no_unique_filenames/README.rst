@@ -22,13 +22,17 @@ Installation
 
 
 
+
 Configuration
 -------------
 
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -43,8 +47,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -62,7 +68,9 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
+
 
 
 
@@ -73,11 +81,14 @@ Credits
 
 
 
+
 * Holger Brunn <hbrunn@therp.nl>
 
 ### Funders
 
 ### Maintainer
+
+
 
 
 

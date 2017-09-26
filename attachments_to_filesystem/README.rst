@@ -21,8 +21,10 @@ Installation
 
 
 
+
 Configuration
 -------------
+
 
 
 
@@ -53,14 +55,18 @@ Usage
 
 -----
 
+-----
+
 Known issues / Roadmap
 ----------------------
 
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -72,12 +78,15 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
 
 
 
 
+
 ### Contributors
+
 
 
 
@@ -93,6 +102,8 @@ http://commons.wikimedia.org/wiki/File:Crystal_Clear_app_harddrive.png
 ### Funders
 
 ### Maintainer
+
+
 
 
 
