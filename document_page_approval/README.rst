@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Document Page Approval
+======================
 
 This module adds a workflow to approve page modification and show the approved
 version by default.
@@ -41,6 +42,8 @@ Configuration
 No configuration required
 
 Usage
+-----
+
 -----
 
 -----
@@ -101,7 +104,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

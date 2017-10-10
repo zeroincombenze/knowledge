@@ -15,6 +15,7 @@
     :alt: License: AGPL-3
 
 URL attachment
+==============
 
 Module that allows to attach an URL as a document.
 
@@ -36,6 +37,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -85,7 +88,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

@@ -48,6 +48,8 @@ Usage
 
 -----
 
+-----
+
 =====
 
 The module adds a little print preview icon right of download links for
@@ -79,7 +81,6 @@ Addon icon
 
 * courtesy of http://commons.wikimedia.org/wiki/Crystal_Clear
 
-[![Odoo Italia Associazione]]
 
 
 

@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Knowledge Management System base
+================================
 
 This module is the base for any knowledge and document management application.
 
@@ -39,6 +40,8 @@ Configuration
 * None
 
 Usage
+-----
+
 -----
 
 -----
@@ -96,7 +99,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

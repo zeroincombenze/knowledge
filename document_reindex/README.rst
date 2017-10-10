@@ -40,6 +40,8 @@ Usage
 
 -----
 
+-----
+
 =====
 
 To reindex a single document, open its form and click the `Reindex document` button.
@@ -70,7 +72,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

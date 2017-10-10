@@ -13,6 +13,7 @@
     :alt: License: AGPL-3
 =========================
 No unique filenames in directories
+==================================
 
 This module drops the uniqueness constraint on filenames within the same directory. This constraint only makes sense if the directories are exported to actual filesystems, which is not the case with the two standard storage options within odoo.
 
@@ -31,6 +32,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -69,7 +72,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

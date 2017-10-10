@@ -13,6 +13,7 @@
 ================================================================================================
 
 Knowledge
+=========
 
 This project is meant to gather all community extensions of Odoo's knowledge and document management.
 
