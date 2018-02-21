@@ -2,6 +2,9 @@ sudo: required
 dist: trusty
 cache: pip
 
+git:
+  submodules: false
+
 addons:
   apt:
     packages:
@@ -31,9 +34,14 @@ virtualenv:
   system_site_packages: true
 
 
-install:
-  - git clone --depth=1 https://github.com/OCA/maintainer-quality-tools.git ${HOME}/maintainer-quality-tools
+before_install:
+  - git clone https://github.com/zeroincombenze/tools.git ${HOME}/tools --depth=1
+  - mv ${HOME}/tools/maintainer-quality-tools ${HOME}
   - export PATH=${HOME}/maintainer-quality-tools/travis:${PATH}
+
+install:
+  # - git clone --depth=1 https://github.com/OCA/maintainer-quality-tools.git ${HOME}/maintainer-quality-tools
+  # - export PATH=${HOME}/maintainer-quality-tools/travis:${PATH}
   - pip install --upgrade paramiko
   - pip install --upgrade pyth
   - travis_install_nightly
