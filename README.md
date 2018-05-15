@@ -8,9 +8,61 @@
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-9.svg)](http://erp9.zeroincombenze.it)
 
 
-[![en](https://github.com/zeroincombenze/grymb/blob/master/flags/en_US.png)](https://www.facebook.com/groups/openerp.italia/)
-================================================================================================
-================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
 
 Knowledge
 =========
@@ -29,9 +81,9 @@ Available addons
 ----------------
 addon | version | OCA version | summary
 --- | --- | --- | ---
-[document_page](document_page/) | 9.0.1.0.1 | :repeat: | Document Page
-[document_page_approval](document_page_approval/) | 9.0.1.0.0 | :repeat: | Document Page Approval
-[document_url](document_url/) | 9.0.2.0.1 | :repeat: | URL attachment
+[document_page](document_page/) | 9.0.1.0.1 | 9.0.2.0.0 | Document Page
+[document_page_approval](document_page_approval/) | 9.0.1.0.0 | 9.0.2.0.0 | Document Page Approval
+[document_url](document_url/) | 9.0.2.0.1 | 9.0.2.0.2 | URL attachment
 [knowledge](knowledge/) | 9.0.1.1.0 | :repeat: | Knowledge Management System
 
 
