@@ -66,6 +66,8 @@
 
 
 
+
+
 [![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
 
 Knowledge
@@ -85,8 +87,8 @@ Available addons
 ----------------
 addon | version | OCA version | summary
 --- | --- | --- | ---
-[document_page](document_page/) | 9.0.1.0.1 | 9.0.2.0.0 | Document Page
-[document_page_approval](document_page_approval/) | 9.0.1.0.0 | 9.0.2.0.0 | Document Page Approval
+[document_page](document_page/) | 9.0.1.0.1 | 9.0.2.1.0 | Document Page
+[document_page_approval](document_page_approval/) | 9.0.1.0.0 | 9.0.2.1.0 | Document Page Approval
 [document_url](document_url/) | 9.0.2.0.1 | 9.0.2.0.2 | URL attachment
 [knowledge](knowledge/) | 9.0.1.1.0 | :repeat: | Knowledge Management System
 
